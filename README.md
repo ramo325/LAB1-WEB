@@ -1,6 +1,6 @@
 # LAB1-WEB
 #MUzička streaming aplikacija LAB-1
-Člannovi tima:
+#Člannovi tima:
 Ramo Kozlić
 Emir Đelilbašić
 ##Opis modela i relacija:
